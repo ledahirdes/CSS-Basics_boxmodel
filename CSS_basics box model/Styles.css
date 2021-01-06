@@ -1,0 +1,54 @@
+.centreren
+{width: 80%;
+margin:auto
+}
+
+.border-1 
+{border: 1px solid red; 
+    margin-top: 20px;
+    margin-right: 10px; 
+    padding: 10px 20px;
+}
+
+.border-2
+{border: 1px solid blue; 
+    margin-top: 20px;
+    margin-right: 10px; 
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    /* hetzelfde als hierboven*/
+    padding: 10px 20px;
+}
+
+.border-3
+{border: 1px solid yellow; 
+    margin-top: 20px;
+    margin-right: 10px; 
+    padding: 10px 20px;
+}
+
+#green-background {background-color: coral;
+}
+
+H1 {color: black; 
+    font-weight:lighter; 
+    font-family: sans-serif; 
+    font-size: 32px;
+} 
+
+body {color: black; 
+    background-color: lightgray; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 14px;
+}
+
+ul {display: block;
+
+}
+
+.list {display: block;
+
+}
+
